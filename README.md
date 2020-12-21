@@ -69,5 +69,5 @@
 ⚡Ethical Hacking Training :
   Company Name : Azure Skynet Solutions Pvt Ltd
   
-                       <img src ="https://github.com/arshmishra007/arshmishra007/blob/main/coding-freak.gif" width="300" height = "400" style="border:5px solid black">  
+
 
