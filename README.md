@@ -21,3 +21,50 @@
 👯I use HackerRank for programming practices and earned badges as well . I know Python , C++ , C .
 👯I was also the part of the Inception Wave Student Chapter , and i was a Web Designer since i knew (HTML,CSS,JS) . I worked in a team and learned a lot of great things regarding how to manage everything in team . 
 
+
+#### Experience
+
+⚡IIEC-Python Success Head :
+  Part-time
+  Dates EmployedJul 2020 – Present
+  Employment Duration6 mos
+  
+⚡Technical Volunteer :
+  Company NameIIEC Rise
+  Dates volunteeredAug 2020 – Present Volunteer duration5 mos
+  Specialist In Python
+
+⚡Campus Representative :
+   Company NameTechkriti, Indian Institute of Technology Kanpur Part-time
+   Dates EmployedFeb 2020
+   Employment Duration1 mo
+   Campus representative of Techkriti 2020
+
+⚡Web Designer :
+  Company NameInception Wave Student Chapter
+  Dates EmployedFeb 2020 – Jul 2020
+  Employment Duration6 mos
+  LocationChennai, Tamil Nadu
+  Worked together in a team and learnt a lot of great things .
+  
+⚡Ambassador :
+  Part-time
+  Dates EmployedJun 2020 – Jul 2020
+  Employment Duration2 mos
+  LocationRajkot, Gujarat, India
+  Flutter summer training program under the World record holder Mr. Vimal Daga Sir
+  
+⚡MLOPS + DevOpsAL + Flutter Trainee (LW Informatics Pvt Ltd) :
+  Dates EmployedMay 2020 – Sep 2020
+  Employment Duration5 mos
+  LocationRajkot, Gujarat, India
+  Mlops summer training program under the World record holder Mr. Vimal Daga Sir
+  
+⚡Ethical Hacking Trainee :
+  Company Name: Internshala Trainee
+  Dates EmployedAug 2020 – Sep 2020
+  Employment Duration2 mos
+  A top performer in the Ethical Hacking training with a score of 100%  
+  
+⚡Ethical Hacking Training :
+  Company Name : Azure Skynet Solutions Pvt Ltd
