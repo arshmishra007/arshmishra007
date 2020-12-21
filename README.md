@@ -6,5 +6,5 @@
 - 👯 I have a great Interest in the field of Artificial Intelligence and Cyber Security.
 - 💬 Ask me about tips related to ML and DL 
 - 📫 How to reach me: DM me on https://www.linkedin.com/in/arsh-mishra/
-- ⚡ Fun fact: Love playing Cricket , Badminton and also loves Cooking ;)
+- ⚡ Fun fact: Loves playing Cricket , Badminton and also loves Cooking ;)
 
