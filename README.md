@@ -27,44 +27,48 @@
 ⚡IIEC-Python Success Head :
   Part-time
   Dates EmployedJul 2020 – Present
-  Employment Duration6 mos
+  Employment Duration 6 mos
   
 ⚡Technical Volunteer :
   Company NameIIEC Rise
-  Dates volunteeredAug 2020 – Present Volunteer duration5 mos
+  Dates volunteered Aug 2020 – Present Volunteer duration 5 mos
   Specialist In Python
 
 ⚡Campus Representative :
    Company NameTechkriti, Indian Institute of Technology Kanpur Part-time
    Dates EmployedFeb 2020
-   Employment Duration1 mo
+   Employment Duration1 mon
    Campus representative of Techkriti 2020
 
 ⚡Web Designer :
-  Company NameInception Wave Student Chapter
-  Dates EmployedFeb 2020 – Jul 2020
-  Employment Duration6 mos
-  LocationChennai, Tamil Nadu
+  Company Name Inception Wave Student Chapter
+  Dates Employed Feb 2020 – Jul 2020
+  Employment Duration 6 mos
+  Location Chennai, Tamil Nadu
   Worked together in a team and learnt a lot of great things .
   
 ⚡Ambassador :
   Part-time
-  Dates EmployedJun 2020 – Jul 2020
-  Employment Duration2 mos
-  LocationRajkot, Gujarat, India
+  Dates Employed Jun 2020 – Jul 2020
+  Employment Duration 2 mos
+  Location Rajkot, Gujarat, India
   Flutter summer training program under the World record holder Mr. Vimal Daga Sir
   
 ⚡MLOPS + DevOpsAL + Flutter Trainee (LW Informatics Pvt Ltd) :
   Dates EmployedMay 2020 – Sep 2020
-  Employment Duration5 mos
+  Employment Duration 5 mos
   LocationRajkot, Gujarat, India
   Mlops summer training program under the World record holder Mr. Vimal Daga Sir
   
 ⚡Ethical Hacking Trainee :
   Company Name: Internshala Trainee
-  Dates EmployedAug 2020 – Sep 2020
-  Employment Duration2 mos
+  Dates Employed Aug 2020 – Sep 2020
+  Employment Duration 2 mos
   A top performer in the Ethical Hacking training with a score of 100%  
   
 ⚡Ethical Hacking Training :
   Company Name : Azure Skynet Solutions Pvt Ltd
+  
+  
+### Features Repositories 👋 <img src ="https://github.com/arshmishra007/arshmishra007/blob/main/tech.gif" width="300" height = "400" style="border:5px solid black">  
+  
