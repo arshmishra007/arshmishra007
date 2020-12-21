@@ -9,10 +9,8 @@
 - ⚡ Fun fact: Loves playing Cricket , Badminton and also loves Cooking ;)
 
 <img src ="https://github-readme-stats.vercel.app/api?username=arshmishra007&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">
-<br>
-<br>
-### About Me
 
+#### About Me
 #### Hello Everyone!
 
 👯I am a 3rd year student at SRM INSTITUTE OF SCIENCE AND TECHNOLOGY, Kattankulathur,Chennai , persuing BTech in Computer Science with Specialization in Cyber Security.
