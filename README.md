@@ -1,4 +1,4 @@
-### Hola I'm Arsh Mishra 👋
+### Hola I'm Arsh Mishra 👋 <img src ="https://github.com/arshmishra007/arshmishra007/blob/main/coding-freak.gif" width="300" height = "400" style="border:5px solid black">
 
 - 🔭 Currently I am working as the Success Head and the Technical Volunteer in IIEC-RISE
 - 🌱 I’m currently learning Advance Machine Learning And Deep Learning Concepts , DevOps and Flutter 
@@ -10,8 +10,8 @@
 
 <img src ="https://github-readme-stats.vercel.app/api?username=arshmishra007&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">
 
-#### About Me
-#### Hello Everyone!
+#### About Me 
+
 
 👯I am a 3rd year student at SRM INSTITUTE OF SCIENCE AND TECHNOLOGY, Kattankulathur,Chennai , persuing BTech in Computer Science with Specialization in Cyber Security.
 
