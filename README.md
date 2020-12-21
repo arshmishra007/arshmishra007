@@ -9,4 +9,17 @@
 - ⚡ Fun fact: Loves playing Cricket , Badminton and also loves Cooking ;)
 
 <img src ="https://github-readme-stats.vercel.app/api?username=arshmishra007&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">
+<br>
+<br>
+### About Me
+
+#### Hello Everyone!
+
+👯I am a 3rd year student at SRM INSTITUTE OF SCIENCE AND TECHNOLOGY, Kattankulathur,Chennai , persuing BTech in Computer Science with Specialization in Cyber Security.
+
+👯I am a Machine Learning and Deep Learning enthusiast and also have a great interest in Cyber Security too. 
+👯I completed MLOPS + DEVOPS + FLUTTER training from LW India and successfully submitted all the tasks and the main project as well.
+
+👯I use HackerRank for programming practices and earned badges as well . I know Python , C++ , C .
+👯I was also the part of the Inception Wave Student Chapter , and i was a Web Designer since i knew (HTML,CSS,JS) . I worked in a team and learned a lot of great things regarding how to manage everything in team . 
 
