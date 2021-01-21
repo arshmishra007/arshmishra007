@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Arsh Mishra</h1>
 <h3 align="center">A Machine Learning And Cyber Security Enthusiast</h3>
 
-<img  align ='right' src ="https://github.com/arshmishra007/arshmishra007/blob/main/coding-freak.gif" width="180" height = "180" >
+<img  align ='right' src ="https://github.com/arshmishra007/arshmishra007/blob/main/coding-freak.gif" width="180" height = "180" padding-top = "60" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arshmishra007&label=Profile%20views&color=0e75b6&style=flat" alt="arshmishra007" /> </p>
 
