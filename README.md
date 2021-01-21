@@ -33,8 +33,6 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=arshmishra007&show_icons=true&locale=en&layout=compact" alt="arshmishra007" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arshmishra007&show_icons=true&locale=en" alt="arshmishra007" /></p>
-
 #### Experience
 
 ⚡IIEC-Python Success Head :
@@ -82,4 +80,8 @@
 ⚡Ethical Hacking Training :
   Company Name : Azure Skynet Solutions Pvt Ltd
   
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arshmishra007&show_icons=true&locale=en" alt="arshmishra007" /></p>
+
+
 
