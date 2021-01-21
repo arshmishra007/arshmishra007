@@ -31,6 +31,55 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arshmishra007&show_icons=true&locale=en&layout=compact" alt="arshmishra007" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=arshmishra007&show_icons=true&locale=en&layout=compact" alt="arshmishra007" /></p>
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=arshmishra007&show_icons=true&locale=en" alt="arshmishra007" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arshmishra007&show_icons=true&locale=en" alt="arshmishra007" /></p>
+
+#### Experience
+
+⚡IIEC-Python Success Head :
+  Part-time
+  Dates EmployedJul 2020 – Present
+  Employment Duration 6 mos
+  
+⚡Technical Volunteer :
+  Company NameIIEC Rise
+  Dates volunteered Aug 2020 – Present Volunteer duration 5 mos
+  Specialist In Python
+
+⚡Campus Representative :
+   Company NameTechkriti, Indian Institute of Technology Kanpur Part-time
+   Dates EmployedFeb 2020
+   Employment Duration1 mon
+   Campus representative of Techkriti 2020
+
+⚡Web Designer :
+  Company Name Inception Wave Student Chapter
+  Dates Employed Feb 2020 – Jul 2020
+  Employment Duration 6 mos
+  Location Chennai, Tamil Nadu
+  Worked together in a team and learnt a lot of great things .
+  
+⚡Ambassador :
+  Part-time
+  Dates Employed Jun 2020 – Jul 2020
+  Employment Duration 2 mos
+  Location Rajkot, Gujarat, India
+  Flutter summer training program under the World record holder Mr. Vimal Daga Sir
+  
+⚡MLOPS + DevOpsAL + Flutter Trainee (LW Informatics Pvt Ltd) :
+  Dates EmployedMay 2020 – Sep 2020
+  Employment Duration 5 mos
+  LocationRajkot, Gujarat, India
+  Mlops summer training program under the World record holder Mr. Vimal Daga Sir
+  
+⚡Ethical Hacking Trainee :
+  Company Name: Internshala Trainee
+  Dates Employed Aug 2020 – Sep 2020
+  Employment Duration 2 mos
+  A top performer in the Ethical Hacking training with a score of 100%  
+  
+⚡Ethical Hacking Training :
+  Company Name : Azure Skynet Solutions Pvt Ltd
+  
+
