@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Advanced ML**
 
-- 👨‍💻 Link To My Portfolio [https://arshmishra007.github.io/My-WebSite/](https://arshmishra007.github.io/My-WebSite/)
+- 👨‍💻 Link To My Portfolio [https://arshmishra007.github.io/MyPortfolio_21/](https://arshmishra007.github.io/MyPortfolio_21/)
 
 - 📝 I regularly write articles on LinkedIn [https://www.linkedin.com/in/arsh-mishra/](https://www.linkedin.com/in/arsh-mishra/)
 
@@ -77,8 +77,8 @@
   Employment Duration 2 mos
   A top performer in the Ethical Hacking training with a score of 100%  
   
-⚡Ethical Hacking Training :
-  Company Name : Azure Skynet Solutions Pvt Ltd
+⚡Data Science and Buisness Analytics Intern
+  The Sparks Foundation
   
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arshmishra007&show_icons=true&locale=en" alt="arshmishra007" /></p>
