@@ -15,7 +15,7 @@
 
 - 📝 I regularly write articles on LinkedIn [https://www.linkedin.com/in/arsh-mishra/](https://www.linkedin.com/in/arsh-mishra/)
 
-- 💬 Ask me about **AI , Web Development , Java , Python **
+- 💬 Ask me about **AI DBMS**
 
 
 - ⚡ Fun fact **I think I am Funny ;)**
