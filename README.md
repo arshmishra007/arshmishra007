@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arsh Mishra</h1>
-<h3 align="center">A Machine Learning And Cyber Security Enthusiast</h3>
+<h3 align="center">A Data Science Enthusiast</h3>
 
 
 
@@ -9,15 +9,14 @@
 
 - 🔭 I’m currently working on [Artificial Intelligence](https://github.com/arshmishra007/Artificial-Intelligence-and-ML.git)
 
-- 🌱 I’m currently learning **Advanced ML**
+- 🌱 I’m currently learning **Amazing Things ;) **
 
 - 👨‍💻 Link To My Portfolio [https://arshmishra007.github.io/MyPortfolio_21/](https://arshmishra007.github.io/MyPortfolio_21/)
 
 - 📝 I regularly write articles on LinkedIn [https://www.linkedin.com/in/arsh-mishra/](https://www.linkedin.com/in/arsh-mishra/)
 
-- 💬 Ask me about **Web-Dev , Cyber-Security , AI**
+- 💬 Ask me about **AI , Web Development , Java , Python **
 
-- 📫 How to reach me **arshmishra169@gmail.com**
 
 - ⚡ Fun fact **I think I am Funny ;)**
 
@@ -51,13 +50,6 @@
    Employment Duration1 mon
    Campus representative of Techkriti 2020
 
-⚡Web Designer :
-  Company Name Inception Wave Student Chapter
-  Dates Employed Feb 2020 – Jul 2020
-  Employment Duration 6 mos
-  Location Chennai, Tamil Nadu
-  Worked together in a team and learnt a lot of great things .
-  
 ⚡Ambassador :
   Part-time
   Dates Employed Jun 2020 – Jul 2020
