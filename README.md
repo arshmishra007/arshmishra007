@@ -23,7 +23,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/arsh-mishra" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="arsh-mishra" height="30" width="40" /></a>
-<a href="https://instagram.com/arsh._.mishra" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="arsh._.mishra" height="30" width="40" /></a>
+<a href="https://instagram.com/mishraajii.exe" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="arsh._.mishra" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/ra1811030010039" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="ra1811030010039" height="30" width="40" /></a>
 </p>
 
